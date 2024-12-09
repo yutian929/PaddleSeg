@@ -13,4 +13,4 @@ Download the ms_deform_attn.zip (https://paddleseg.bj.bcebos.com/dygraph/customi
 
 | Model | Backbone | Resolution | Training Iters | mIoU | mIoU (flip) | mIoU (ms+flip) | Links |
 |-|-|-|-|-|-|-|-|
-|UPerNetViTAdapter|ViT-Adapter-Tiny|512x512|160000|41.90%|-|-|[model](https://paddleseg.bj.bcebos.com/dygraph/ade20k/upernet_vit_adapter_tiny_ade20k_512x512_160k/model.pdparams) \| [log](https://paddleseg.bj.bcebos.com/dygraph/ade20k/upernet_vit_adapter_tiny_ade20k_512x512_160k/train_log.txt) \| [vdl](https://paddlepaddle.org.cn/paddle/visualdl/service/app?id=88173046bd09f61da5f48db66baddd7d)|
+|UPerNetViTAdapter|ViT-Adapter-Tiny|512x512|160000|41.90%|-|-|[model](https://paddleseg.bj.bcebos.com/dygraph/ade20k/upernet_vit_adapter_tiny_ade20k_512x512_160k/model.pdparams) \| [log](https://paddleseg.bj.bcebos.com/dygraph/ade20k/upernet_vit_adapter_tiny_ade20k_512x512_160k/train_log.txt) |

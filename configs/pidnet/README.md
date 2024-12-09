@@ -10,7 +10,7 @@
 
 | Model | Backbone | Resolution | Training Iters | mIoU | mIoU (flip) | mIoU (ms+flip) | Links |
 |-|-|-|-|-|-|-|-|
-|PIDNet|PIDNet-Small |1024x1024|120000|78.48%|79.02%|79.68%|[model](https://paddleseg.bj.bcebos.com/dygraph/pidnet/pidnet_small_cityscapes_1024x1024_120k/model.pdparams) \| [log](https://paddleseg.bj.bcebos.com/dygraph/pidnet/pidnet_small_cityscapes_1024x1024_120k/pidnet_small.log) \| [vdl](https://paddlepaddle.org.cn/paddle/visualdl/service/app?id=57dda9c34cd06a4b2996118df03583c9)|
+|PIDNet|PIDNet-Small |1024x1024|120000|78.48%|79.02%|79.68%|[model](https://paddleseg.bj.bcebos.com/dygraph/pidnet/pidnet_small_cityscapes_1024x1024_120k/model.pdparams) \| [log](https://paddleseg.bj.bcebos.com/dygraph/pidnet/pidnet_small_cityscapes_1024x1024_120k/pidnet_small.log) |
 |PIDNet|PIDNet_Medium|1024x1024|120000| | | |
 |PIDNet|PIDNet-Large |1024x1024|120000| | | |
 
